@@ -1,0 +1,1 @@
+ <img src= "/home/fatimakh/Code-Challenges-and-Algorithms/javascript/code-challenges/hashtable-challenges/challenge01/hashtable.JPG" style="width: 300px; height: 215px;" />
